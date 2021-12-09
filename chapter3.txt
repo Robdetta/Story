@@ -1,1 +1,10 @@
 It was the spring of hope, it was the winder of despair.
+
+
+GIT commands -
+
+git rm --cached -r . = to remove what is staged before commmitting
+
+git status
+git log
+git add . = add everyfile in the current directory
